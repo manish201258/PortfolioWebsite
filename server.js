@@ -6,7 +6,7 @@ const connectDb = require("./models/db");
 
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://vocal-cascaron-8a2b36.netlify.app', // Update this if it's not the correct domain
+  'https://itsmanishportfolio.netlify.app', // Update this if it's not the correct domain
   'https://portfoliowebsitebackend-e714.onrender.com'
 ];
 
