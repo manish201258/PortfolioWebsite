@@ -6,6 +6,7 @@ const connectDb = require("./models/db");
 
 const allowedOrigins = [
   'http://localhost:5173',
+  "https://portfoliowebsitebackend-e714.onrender.com"
 ];
 
 const corsOptions = {
